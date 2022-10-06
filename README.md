@@ -2,6 +2,8 @@
 
 ### I'm a frontend developer
 
+**I've been learning front-end for a little over a year on my own. Improved knowledge and skills at the mate academy <img align="left" alt="LinkedIn" width="26px" target="_blank" src="https://abiturients.info/sites/default/files/ma_logo_full_red.png" />**
+
 I love
 - read :book:
 - cook goodies :cake:
@@ -9,6 +11,9 @@ I love
 
 And of course coding :computer:
 <code>**🎓 Mate Academy**</code>
+
+
+
 
 
 ## Contact me:
