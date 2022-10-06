@@ -1,3 +1,15 @@
+## Hi everyone! I'm Andrew
+
+### I'm a frontend developer
+
+I love
+- read :book:
+- cook goodies :meet:
+- have fun to relax :dance:
+
+And of course coding :computer:
+
+
 <code>🎓 Student: KPI / IM-11</code>
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
