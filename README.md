@@ -4,8 +4,8 @@
 
 I love
 - read :book:
-- cook goodies :meet:
-- have fun to relax :dance:
+- cook goodies :cake:
+- have fun to relax :bowling:
 
 And of course coding :computer:
 
