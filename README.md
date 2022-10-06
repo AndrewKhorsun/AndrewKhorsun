@@ -8,7 +8,7 @@ I love
 - have fun to relax :bowling:
 
 And of course coding :computer:
-<code>🎓 Mate Academy</code>
+<code>**🎓 Mate Academy**</code>
 
 
 ## Contact me:
