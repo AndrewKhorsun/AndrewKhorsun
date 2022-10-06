@@ -31,7 +31,8 @@ And of course coding :computer:
 
 [<img align="left" alt="LinkedIn" width="26px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/andrey-khorsun-40b4a8244/)
 <a target="_blank" href="mailto:vladsupruniuk@gmail.com"><img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/gmail.svg" /></a>
-[<img align="left" alt="Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/telegram.svg" />][telegram]
+
+[<img align="left" alt="Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/telegram.svg" />](https://t.me/AndrewKhorsun)
 
 
 <br />
