@@ -32,9 +32,12 @@ And of course coding :computer:
 [<img align="left" alt="LinkedIn" width="26px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/andrey-khorsun-40b4a8244/)
 <a target="_blank" href="mailto:vladsupruniuk@gmail.com"><img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/gmail.svg" /></a>
 [<img align="left" alt="Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Dou" width="40px" src="https://uaspectr.com/wp-content/uploads/2020/10/dou-300x180.jpg" />][dou]
+
+
 <br />
 <br />
+
+
 ## Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://static-00.iconduck.com/assets.00/javascript-js-icon-512x512-q3igwln6.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-512x512-yh0yu3ta.png" />
