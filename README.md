@@ -2,7 +2,7 @@
 
 ### I'm a frontend developer
 
-**I've been learning front-end for a little over a year on my own. Improved knowledge and skills at the mate academy <img align="left" alt="LinkedIn" width="26px" target="_blank" src="https://abiturients.info/sites/default/files/ma_logo_full_red.png" />**
+**I've been learning front-end for a little over a year on my own. Improved knowledge and skills at the mate academy <img alt="LinkedIn" width="26px" target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYL2nyAfGMCQPM2pavAWFbCfPwkzRXU6O52GA0q3C1HTNyg7Std74ZtYxcwWhFC64flBE&usqp=CAU" />**
 
 I love
 - read :book:
