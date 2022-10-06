@@ -23,3 +23,39 @@ And of course coding :computer:
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
 <code>📫 [your-email](mailto:your-email)</code>
+
+
+Contact me:
+LinkedInGmailTelegramTwitterDou
+
+
+
+Languages and Tools:
+React
+
+JavaScript
+
+TypeScript
+
+HTML
+
+CSS
+
+Git
+
+Redux
+
+SASS
+
+Bootstrap
+
+Bulma
+
+SQL
+
+PostgreSQL
+
+Visual Studio Code
+
+WebStorm
+
