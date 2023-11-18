@@ -1,20 +1,6 @@
 ## Hi everyone! I'm Andrew
 
-### I'm a frontend developer
-
-**I've been learning front-end for a little over a year on my own. Improved knowledge and skills at the mate academy [<img  alt="LinkedIn" width="26px" target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYL2nyAfGMCQPM2pavAWFbCfPwkzRXU6O52GA0q3C1HTNyg7Std74ZtYxcwWhFC64flBE&usqp=CAU" />](https://mate.academy/)**
-
-I love
-- read :book:
-- cook goodies :cake:
-- have fun to relax :bowling:
-
-And of course coding :computer:
-<code>**🎓 Mate Academy**</code>
-
-
-
-
+### I'm a front-end developer with two years of experience
 
 ## Contact me:
 
