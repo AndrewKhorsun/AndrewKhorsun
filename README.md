@@ -23,9 +23,8 @@
 <img align="left" alt="Bootstrap" width="34px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" />
 <img align="left" alt="Tailwind CSS" width="28px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" />
 <img align="left" alt="React" width="26px" src="https://static-00.iconduck.com/assets.00/react-icon-512x456-2ynx529a.png" />
-<img align="left" alt="Svelte" width="28px" src="https://svelte.dev/svelte-logo-horizontal.svg" />
+<img align="left" alt="Svelte" width="56px" src="https://svelte.dev/svelte-logo-horizontal.svg" />
 <img align="left" alt="Redux" width="28px" src="https://static-00.iconduck.com/assets.00/redux-original-icon-512x487-gnglwkuf.png" />
 <img align="left" alt="Git" width="28px" src="https://static-00.iconduck.com/assets.00/git-icon-512x512-61zfmvxk.png" />
 <img align="left" alt="PostgreSQL" width="30px" src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-wlm3keth.png" />
-<img align="left" alt="i18n" width="28px" src="https://cdn.iconscout.com/icon/free/png-256/internationalization-1-493695.png" />
 <img align="left" alt="Visual Studio Code" width="28px" src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" />
