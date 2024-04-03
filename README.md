@@ -1,7 +1,5 @@
 ## Hi everyone! I'm Andrew
 
-### I'm a front-end developer with two years of experience
-
 ## Contact me:
 
 [<img align="left" alt="LinkedIn" width="26px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/andrey-khorsun-40b4a8244/)
