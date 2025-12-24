@@ -1,27 +1,35 @@
-## Hi everyone! I'm Andrew
+## Hi there! 👋 I'm Andrii
 
-## Contact me:
+Frontend Developer passionate about building modern web applications.
 
-[<img align="left" alt="LinkedIn" width="26px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/andrey-khorsun-40b4a8244/)
-<a target="_blank" href="mailto:andrewkhorsun@gmail.com"><img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/gmail.svg" /></a>
-[<img align="left" alt="Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/telegram.svg" />](https://t.me/AndrewKhorsun)
+## 📫 Contact me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-khorsun-40b4a8244/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andrewkhorsun@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/AndrewKhorsun)
 
+## 🛠️ Tech Stack:
 
-<br />
-<br />
+**Frontend:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
+**Styling:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-## Languages and Tools:
-<img align="left" alt="JavaScript" width="26px" src="https://static-00.iconduck.com/assets.00/javascript-js-icon-512x512-q3igwln6.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-512x512-yh0yu3ta.png" />
-<img align="left" alt="HTML" width="26px" src="https://static-00.iconduck.com/assets.00/file-type-html-icon-451x512-vzyw6pa7.png" />
-<img align="left" alt="CSS" width="26px" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-451x512-eftbqujz.png" />
-<img align="left" alt="SASS" width="26px" src="https://static-00.iconduck.com/assets.00/file-type-sass-icon-512x384-8hcyam61.png" />
-<img align="left" alt="Bootstrap" width="34px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" />
-<img align="left" alt="Tailwind CSS" width="28px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" />
-<img align="left" alt="React" width="26px" src="https://static-00.iconduck.com/assets.00/react-icon-512x456-2ynx529a.png" />
-<img align="left" alt="Svelte" width="100px" src="https://svelte.dev/svelte-logo-horizontal.svg" />
-<img align="left" alt="Redux" width="28px" src="https://static-00.iconduck.com/assets.00/redux-original-icon-512x487-gnglwkuf.png" />
-<img align="left" alt="Git" width="28px" src="https://static-00.iconduck.com/assets.00/git-icon-512x512-61zfmvxk.png" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-wlm3keth.png" />
-<img align="left" alt="Visual Studio Code" width="28px" src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" />
+**Tools & Others:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+
+---
+💡 *Open to new opportunities and collaborations!*
