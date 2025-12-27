@@ -42,6 +42,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 
-
----
-💼 *Open to new opportunities | Passionate about clean code and exceptional UX*
