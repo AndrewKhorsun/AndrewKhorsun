@@ -1,6 +1,6 @@
 # Andrii Khorsun · Full-Stack Engineer
 
-**Full-Stack Engineer at Cruxlab**  
+**Full-Stack Engineer at [Cruxlab](https://cruxlab.com)**  
 Working across the full engineering lifecycle — development, testing, and production systems.
 
 ---
