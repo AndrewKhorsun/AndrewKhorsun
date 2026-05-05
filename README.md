@@ -1,14 +1,18 @@
 # Andrii Khorsun · Full-Stack Engineer
 
-Building **[Shared Tales](https://github.com/AndrewKhorsun/shared-tails-app-next)** — a collaborative book-writing platform powered by a 4-node LangGraph multi-agent system (planner → writer → editor → summarizer). Next.js · Express · PostgreSQL · Anthropic API.
+**Full-Stack Engineer at Cruxlab**  
+Working across the full engineering lifecycle — development, testing, and production systems.
 
 ---
 
-**Day job:** Front-End → Full-Stack at [Cruxlab](https://cruxlab.com) — React, TypeScript, SvelteKit.  
-Grew test coverage from ~0 to 70%+. Built observability from scratch (Sentry + Honeycomb). Mentored 2 junior devs.
+**Building in spare time:**  
+**[Shared Tales](https://github.com/AndrewKhorsun/shared-tails-app-next)** — collaborative book-writing platform powered by a 4-node LangGraph multi-agent system (planner → writer → editor → summarizer).  
+Next.js · Express · PostgreSQL · Anthropic API
 
-**Currently deepening:** DevOps — networking, reverse proxy, load balancing, managed containers.  
-**Target:** Senior Full-Stack / AI-focused engineering roles.
+---
+
+**Currently deepening:** DevOps — networking, reverse proxy, load balancing, containers  
+**Target:** Senior Full-Stack / AI-focused roles  
 
 ---
 
