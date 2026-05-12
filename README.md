@@ -9,7 +9,7 @@ Working across the full engineering lifecycle — development, testing, and prod
 **[Shared Tales](https://shared-t.online/)** — collaborative book-writing platform powered by a 4-node LangGraph multi-agent system (planner → writer → editor → summarizer). 
 Next.js · Express · PostgreSQL · Anthropic API
 
-*[frontend](https://github.com/AndrewKhorsun/shared-tails-app-next) [backend](https://github.com/AndrewKhorsun/shared-tales-server)*
+*[frontend](https://github.com/AndrewKhorsun/shared-tails-app-next)*
 
 
 ---
