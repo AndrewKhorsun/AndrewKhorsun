@@ -10,7 +10,7 @@ Working across the full engineering lifecycle — development, testing, and prod
 Next.js · Express · PostgreSQL · Anthropic API
 
 *[frontend](https://github.com/AndrewKhorsun/shared-tails-app-next)*
-
+*[backend](https://github.com/AndrewKhorsun/shared-tales-server)*
 
 ---
 
